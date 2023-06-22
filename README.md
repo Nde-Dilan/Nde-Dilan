@@ -4,7 +4,7 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-<h3 align="center">A passionate frontend developer from Cameroon</h3>
+<h3 align="center">A passionate Full Stack web developer from Cameroon</h3>
 
   <h2>☎️ Contact me</h2>
 <div>
