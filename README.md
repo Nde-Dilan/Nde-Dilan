@@ -6,7 +6,7 @@
 </div>
 <h3 align="center">A passionate frontend developer from Cameroon</h3>
 
-  h2>☎️ Contact me</h2>
+  <h2>☎️ Contact me</h2>
 <div>
   <samp>
     <h2 align="center">you can reach me by:</h2>
