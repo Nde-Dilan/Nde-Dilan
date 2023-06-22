@@ -5,9 +5,8 @@
        alt="snake" /></a>
 </div>
 <h3 align="center">A passionate frontend developer from Cameroon</h3>
-----
-<details>
-  <summary>☎️ contact me</summary>
+
+  h2>☎️ Contact me</h2>
 <div>
   <samp>
     <h2 align="center">you can reach me by:</h2>
@@ -37,8 +36,6 @@
     </p>
   </samp>
 </div>
-</details>
-----
 <p align="left">
 </p>
 
