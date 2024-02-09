@@ -8,7 +8,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-qvo8o93jn-nde-dilan.vercel.app/](https://my-portfolio-qvo8o93jn-nde-dilan.vercel.app/)
+- 👨‍💻 All of my projects are available at [Nde Dilan's Portfolio](https://my-portfolio-nde-dilan.vercel.app/)
 
   <h2>☎️ Contact me</h2>
 <div>
@@ -63,4 +63,4 @@
 
 Credit: [NDE HURICH DILAN](https://github.com/Nde-Dilan)
 
-Last Edited on: 30/11/2023
+Last Edited on: 09/02/2024
