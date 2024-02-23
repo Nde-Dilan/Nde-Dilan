@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm <b style="font-family:Consolas; font-size:3rem;">Dilan</b></h1>
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+    <div style="width:100%;height:0;padding-bottom:178%;position:relative;"><iframe src="https://giphy.com/embed/nSWzkAPOzY6umiQ2Wa" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Trakto--background-trakto-bg-nSWzkAPOzY6umiQ2Wa">via GIPHY</a></p>
+ </a>
 </div>
 <h3 align="center" style="font-family:Ink Free; font-size:2.2rem;">A passionate Full Stack web developer from Cameroon</h3>
 
