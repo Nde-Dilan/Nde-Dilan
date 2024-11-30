@@ -67,6 +67,10 @@
   <tr>
    <td align="center"><img src="https://github.com/user-attachments/assets/01642968-4adc-4a92-9e96-a76fbecbdba6" width="100" height="100" alt="GitHub Foundations"><br><sub>GitHub Foundations</sub></td>
     <td align="center"><img src="https://github.com/user-attachments/assets/fb11c789-2849-4e7b-ad57-4c1a25e306a4" width="100" height="100" alt="Postman Student Expert"><br><sub>Postman Student Expert</sub></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/80fccaeb-6c54-421b-b651-cf0d1e2063b3" width="100" height="100" alt="Postman AI App Summarizer"><br><sub>Postman AI App Summarizer</sub></td>
+
+
+  
   </tr>
 </table>
 
