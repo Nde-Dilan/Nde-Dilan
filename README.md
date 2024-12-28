@@ -68,6 +68,7 @@
    <td align="center"><img src="https://github.com/user-attachments/assets/01642968-4adc-4a92-9e96-a76fbecbdba6" width="100" height="100" alt="GitHub Foundations"><br><sub>GitHub Foundations</sub></td>
     <td align="center"><img src="https://github.com/user-attachments/assets/fb11c789-2849-4e7b-ad57-4c1a25e306a4" width="100" height="100" alt="Postman Student Expert"><br><sub>Postman Student Expert</sub></td>
     <td align="center"><img src="https://github.com/user-attachments/assets/80fccaeb-6c54-421b-b651-cf0d1e2063b3" width="100" height="100" alt="Postman AI App Summarizer"><br><sub>Postman AI App Summarizer</sub></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/76017182-01f3-4728-9b61-533837266111" width="100" height="100" alt="Artificial Intelligence Essentials"><br><sub>IBM Artificial Intelligence Essentials</sub></td>
 
 
   
@@ -87,6 +88,7 @@
 
 ![Nde-Dilan's Stats](https://github-readme-stats.vercel.app/api?username=Nde-Dilan&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
+
 ![Nde-Dilan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nde-Dilan&theme=tokyonight&hide_border=false)
 
 ![Nde-Dilan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nde-Dilan&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
@@ -100,4 +102,4 @@
 
 Credit: [NDE HURICH DILAN](https://github.com/Nde-Dilan)
 
-Last Edited on: 19/11/2024
+Last Edited on: 28/12/2024
