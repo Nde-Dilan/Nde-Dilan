@@ -68,17 +68,18 @@
    <td align="center"><img src="https://github.com/user-attachments/assets/01642968-4adc-4a92-9e96-a76fbecbdba6" width="100" height="100" alt="GitHub Foundations"><br><sub>GitHub Foundations</sub></td>
     <td align="center"><img src="https://github.com/user-attachments/assets/fb11c789-2849-4e7b-ad57-4c1a25e306a4" width="100" height="100" alt="Postman Student Expert"><br><sub>Postman Student Expert</sub></td>
     <td align="center"><img src="https://github.com/user-attachments/assets/80fccaeb-6c54-421b-b651-cf0d1e2063b3" width="100" height="100" alt="Postman AI App Summarizer"><br><sub>Postman AI App Summarizer</sub></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/063e7fce-a058-42fb-9a1f-d7340dee4375" width="100" height="100" alt="AWS Educate Machine Learning Foundations"><br><sub>AWS Educate Machine Learning Foundations</sub></td>
     <td align="center"><img src="https://github.com/user-attachments/assets/76017182-01f3-4728-9b61-533837266111" width="100" height="100" alt="Artificial Intelligence Essentials"><br><sub>IBM Artificial Intelligence Essentials</sub></td>
     <td align="center"><img src="https://github.com/user-attachments/assets/de1469e9-6251-45d5-933f-b1727f566735" width="100" height="100" alt="Build Apps with Flutter badge"><br><sub>Build Apps with Flutter badge</sub></td>
 
-
   
-  </tr>
+  </tr> 
+
 </table>
 
 <h3 align="left" style="font-family:Ink Free; font-size:3rem;">Languages and Tools:</h3>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=dart,flutter,java,laravel,nextjs,php,postman,react,redux,bash,bootstrap,cpp,css,django,figma,firebase,git,html,js,linux,mongodb,mysql,ps,python,qt,sass,sqlite,tailwind,ts&perline=7" alt="Languages and Tools">  
+<img src="https://skillicons.dev/icons?i=dart,flutter,laravel,nextjs,php,postman,react,bash,css,figma,firebase,git,js,linux,mongodb,mysql,python,sqlite,tailwind,ts&perline=7" alt="Languages and Tools">  
 
 </div>
 
@@ -103,4 +104,4 @@
 
 Credit: [NDE HURICH DILAN](https://github.com/Nde-Dilan)
 
-Last Edited on: 28/12/2024
+Last Edited on: 26/06/2025
