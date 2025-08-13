@@ -14,11 +14,11 @@
 
 
 
-- 👨‍💻 All of my projects are available [Here](https://techwithdilan.tech/)
+- 👨‍💻 All of my projects are available [Here](https://techwithdilan.dev/)
 - ## Latest Blog Posts
 
 <div align="center" style="border-radius:19px;">
-  <a href="https://my-blogify.tech/devfest-yaounde-2024/" target="_blank">
+  <a href="https://my-blogify.tech/author/dilan/" target="_blank">
     <img width="100" height="100" src="https://github.com/user-attachments/assets/5ce527f0-e18f-42b4-ac88-47efe712967e" alt="Recent Article">
   </a>
 </div>
