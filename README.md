@@ -18,8 +18,9 @@
 - ## Latest Blog Posts
 
 <div align="center" style="border-radius:19px;">
-  <a href="https://my-blogify.tech/author/dilan/" target="_blank">
-    <img width="100" height="100" src="https://github.com/user-attachments/assets/5ce527f0-e18f-42b4-ac88-47efe712967e" alt="Recent Article">
+  <a href="https://my-blogify.tech/author/dilan/" target="_blank"> 
+    <img width="1024" height="512" alt="image" src="https://github.com/user-attachments/assets/600a22da-ef8f-4df1-bbcf-f1ec2af94242" alt="Recent Article"/>
+
   </a>
 </div>
 
@@ -65,15 +66,22 @@
 
 <table>
   <tr>
-   <td align="center"><img src="https://github.com/user-attachments/assets/01642968-4adc-4a92-9e96-a76fbecbdba6" width="100" height="100" alt="GitHub Foundations"><br><sub>GitHub Foundations</sub></td>
+   <td align="center"><img src="https://github.com/user-attachments/assets/01642968-4adc-4a92-9e96-a76fbecbdba6" width="110" height="110" alt="GitHub Foundations"><br><sub>GitHub Foundations</sub></td>
     <td align="center"><img src="https://github.com/user-attachments/assets/fb11c789-2849-4e7b-ad57-4c1a25e306a4" width="100" height="100" alt="Postman Student Expert"><br><sub>Postman Student Expert</sub></td>
     <td align="center"><img src="https://github.com/user-attachments/assets/80fccaeb-6c54-421b-b651-cf0d1e2063b3" width="100" height="100" alt="Postman AI App Summarizer"><br><sub>Postman AI App Summarizer</sub></td>
     <td align="center"><img src="https://github.com/user-attachments/assets/063e7fce-a058-42fb-9a1f-d7340dee4375" width="100" height="100" alt="AWS Educate Machine Learning Foundations"><br><sub>AWS Educate Machine Learning Foundations</sub></td>
     <td align="center"><img src="https://github.com/user-attachments/assets/76017182-01f3-4728-9b61-533837266111" width="100" height="100" alt="Artificial Intelligence Essentials"><br><sub>IBM Artificial Intelligence Essentials</sub></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/de1469e9-6251-45d5-933f-b1727f566735" width="100" height="100" alt="Build Apps with Flutter badge"><br><sub>Build Apps with Flutter badge</sub></td>
+
 
   
   </tr> 
+  <tr> 
+        <td align="center"><img src="https://github.com/user-attachments/assets/de1469e9-6251-45d5-933f-b1727f566735" width="100" height="100" alt="Build Apps with Flutter badge"><br><sub>Build Apps with Flutter badge</sub></td>
+        <td align="center"><img src="https://github.com/user-attachments/assets/4f74b708-3ac1-4bfd-8d8f-ceffd3f25760" width="100" height="100" alt="Build Apps with Flutter badge"><br><sub>AWS Emerging Talent Community Member</sub></td>
+
+
+  </tr> 
+  
 
 </table>
 
@@ -104,4 +112,4 @@
 
 Credit: [NDE HURICH DILAN](https://github.com/Nde-Dilan)
 
-Last Edited on: 26/06/2025
+Last Edited on: 20/08/2025
