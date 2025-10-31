@@ -96,13 +96,12 @@
 ## Github Stats 🔥
 
 
-![Nde-Dilan's Stats](https://github-readme-stats.vercel.app/api?username=Nde-Dilan&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nde-Dilan&theme=nord_dark)
 
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nde-Dilan&theme=nord_dark)
+![Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nde-Dilan&theme=nord_dark)
 
-![Nde-Dilan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nde-Dilan&theme=tokyonight&hide_border=false)
-
-![Nde-Dilan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nde-Dilan&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
-
+ 
 <hr>
 
 <p align="center">
@@ -112,4 +111,4 @@
 
 Credit: [NDE HURICH DILAN](https://github.com/Nde-Dilan)
 
-Last Edited on: 20/08/2025
+Last Edited on: 31/10/2025
